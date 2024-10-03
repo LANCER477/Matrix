@@ -68,5 +68,5 @@ int main()
 	obj2.Input();
 	obj2.Print();
 
-	Matrix<double> obj3(1.5, 4.5);
+	
 }
